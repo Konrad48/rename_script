@@ -2,7 +2,6 @@
 import os
 import eyed3
 
-print('Hi mom')
 directory = 'D:\Muzyka\Shakira greatest hits'
 ext = '.MP3'
 changed_files = []

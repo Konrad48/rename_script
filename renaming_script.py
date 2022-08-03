@@ -1,7 +1,6 @@
 # Script renames mp3 files downloaded via: https://mp3dl.cc/
 import os, re
 
-print('Hi mom')
 directory = 'D:\Muzyka\Shakira greatest hits'
 ext = '.MP3'
 output_filenames = []
